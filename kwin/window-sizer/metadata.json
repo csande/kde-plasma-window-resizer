@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Id": "window-sizer",
+        "Name": "Window Sizer",
+        "Description": "Adds window size and position profiles to the window context menu.",
+        "Authors": [{ "Name": "Window Sizer" }],
+        "License": "MIT",
+        "Version": "1.1.0"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js",
+    "KPackageStructure": "KWin/Script"
+}
